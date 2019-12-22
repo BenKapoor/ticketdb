@@ -5,33 +5,5 @@
       "magasin_name":"Leclerc",
       "street":"12 rue du Maréchal Leclerc, Paris 16",
       "release_date":"2017-12-13"
-   },
-   {
-      "id":181809,
-      "prixTtc":22.50,
-      "magasin_name":"Leclerc",
-      "street":"12 rue du Maréchal Leclerc, Paris 16",
-      "release_date":"2017-12-13"
-   },
-   {
-      "id":181810,
-      "prixTtc":22.50,
-      "magasin_name":"Leclerc",
-      "street":"12 rue du Maréchal Leclerc, Paris 16",
-      "release_date":"2017-12-13"
-   },
-   {
-      "id":181811,
-      "prixTtc":22.50,
-      "magasin_name":"Leclerc",
-      "street":"12 rue du Maréchal Leclerc, Paris 16",
-      "release_date":"2017-12-13"
-   },
-   {
-      "id":181812,
-      "prixTtc":22.50,
-      "magasin_name":"Leclerc",
-      "street":"12 rue du Maréchal Leclerc, Paris 16",
-      "release_date":"2017-12-13"
    }
 ]
